@@ -1,0 +1,9 @@
+{
+  "label": "06. Arquitetura e Ciclo de Vida",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+    "slug": "/category/06-arquitetura-e-ciclo-de-vida",
+    "description": "Ciclo de vida dos dados, MDM, dados de referência e governança em arquiteturas modernas (Lakehouse e Data Mesh)."
+  }
+}

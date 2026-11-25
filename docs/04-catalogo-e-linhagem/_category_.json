@@ -1,0 +1,9 @@
+{
+  "label": "04. Catálogo, Metadados e Linhagem",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "slug": "/category/04-catalogo-e-linhagem",
+    "description": "Gestão de metadados, catálogo de dados, glossário de negócios e rastreabilidade ponta a ponta (Data Lineage)."
+  }
+}

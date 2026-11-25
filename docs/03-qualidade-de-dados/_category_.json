@@ -1,0 +1,9 @@
+{
+  "label": "03. Qualidade de Dados",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "slug": "/category/03-qualidade-de-dados",
+    "description": "Dimensões de qualidade, regras, métricas, SLAs, observabilidade e Data Contracts."
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "label": "01. Fundamentos",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "slug": "/category/01-fundamentos",
+    "description": "Conceitos essenciais, frameworks de referência (DAMA-DMBOK), estratégia e modelos de maturidade em Governança de Dados."
+  }
+}
